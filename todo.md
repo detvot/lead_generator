@@ -1,0 +1,11 @@
+- [x] Projektstruktur erstellen
+- [x] Code refaktorisieren (Scraper-Logik)
+- [x] Code refaktorisieren (Hilfsfunktionen)
+- [x] CLI-Interface implementieren
+- [x] Ausgabeformat verbessern (CSV)
+- [x] requirements.txt erstellen
+- [x] README.md erstellen
+- [x] GitHub-Repository initialisieren
+- [x] Code zu GitHub hinzufügen
+- [ ] GitHub-Repository veröffentlichen
+
